@@ -1,10 +1,12 @@
 <template>
     <div class="hello">
-        <h1>{{ msg }}</h1>
-
         <nav class="navbar navbar-default navbar-fixed-top">
             <p class="navbar-text">Title...</p>
         </nav>
+
+        <div class="btn btn-success m-5 display-4">
+            Button
+        </div>
 
         <div class="container-fluid">
             <div class="row">
@@ -100,7 +102,6 @@
     color: #ffffff;
     }
 
-    /*
     .tabbable {
     margin-top: 60px;
     }
@@ -133,7 +134,5 @@
     .tabs-left > .nav-tabs .active > a:focus {
     background-color: #d9d9d9;
     }
-    */
-
 
 </style>
