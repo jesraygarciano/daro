@@ -19,3 +19,8 @@ import Dashboard from '@/components/Dashboard.vue'
 })
 export default class Home extends Vue {}
 </script>
+
+<style lang="scss">
+// @import '../node_modules/bootstrap/scss/bootstrap.scss';
+
+</style>
